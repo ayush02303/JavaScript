@@ -13,4 +13,6 @@ console.log(Math.abs(-1222));
 console.log(Math.round(12.12)); 
 console.log(Math.floor(12.2)); 
 console.log(Math.ceil(12.12)); 
-
+console.log(Math.max(12,12,34,12)); 
+console.log(Math.min(12,2,33,4)); 
+console.log(Math.random()*10);
