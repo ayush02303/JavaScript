@@ -18,3 +18,4 @@ switch(num){
      case 5 : 
     console.log(`you've written ${num}`)
 }
+
