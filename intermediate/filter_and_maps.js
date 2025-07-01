@@ -13,3 +13,11 @@ console.log(result1)
 const num1 = [1,22,34,45,67,788,899]
 const result3 = num1.map((n) => n+2)
 console.log(result3)
+
+//maps 
+// using map would not hamper the data of the original array
+
+const arr = [1,2,4,5,67,88]
+
+const result4 = arr.map((n3)=> {return n3*2 })
+console.log(result4)
